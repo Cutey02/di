@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Cutey02/di")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/nanbargalisai")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/nanbargalaarangam")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TamilStatusForGirl")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/remo_editz")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -76,24 +76,24 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/c421e792965559b846842.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/c3c11ffa3a9594ab23b86.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/c421e792965559b846842.jpg",
+    "https://graph.org/file/c3c11ffa3a9594ab23b86.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 
-GLOBAL_IMG_URL = "https://graph.org/file/c421e792965559b846842.jpg"
+GLOBAL_IMG_URL = "https://graph.org/file/c3c11ffa3a9594ab23b86.jpg"
 
-STATS_IMG_URL = "https://graph.org/file/c421e792965559b846842.jpg"
+STATS_IMG_URL = "https://graph.org/file/c3c11ffa3a9594ab23b86.jpg"
 
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
+STREAM_IMG_URL = "https://graph.org/file/c3c11ffa3a9594ab23b86.jpg"
 
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 
